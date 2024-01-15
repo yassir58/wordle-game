@@ -1,3 +1,4 @@
+![Screencastfrom15202401135607-ezgif com-video-to-gif-converter](https://github.com/yassir58/wordle-game/assets/60141497/f5272bb5-6ee8-4bd0-9ac3-1b99d01e8307)
 
 
 # Features Implemented
@@ -23,18 +24,6 @@
 - [tRPC](https://trpc.io)
 
 # How To Star Project
-
-
-to start app add these variables to .env file
-
-
-DATABASE_URL="postgresql://postgres:password123@localhost:6500/wordle?schema=public"
-NEXTAUTH_SECRET="b2815fb4bf0bb87b918976137600f741427175426bc6e881313d4594216af0145e41462ed078f40aab7265db5e5999dc2e0f5ee4b097959c22d05578bbbf9534"
-NEXTAUTH_URL='http://localhost:3000'
-
-set as empty string the following variables
-DISCORD_CLIENT_ID=''
-DISCORD_CLIENT_SECRET='lcoze8wfna'
 
 ```bash
 ./start.sh
